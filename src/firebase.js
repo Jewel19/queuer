@@ -3,13 +3,12 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCf2e4hnlIP9u9JFoADWYL77s9TruU_Tbk",
-  authDomain: "qeuer-22e71.firebaseapp.com",
-  databaseURL: "https://qeuer-22e71-default-rtdb.asia-southeast1.firebasedatabase.app",
-  projectId: "qeuer-22e71",
-  storageBucket: "qeuer-22e71.appspot.com",
-  messagingSenderId: "206603935311",
-  appId: "1:206603935311:web:31643f8d5cc94bb883543a"
+  apiKey: "AIzaSyBW_s2G5fImUlsUHYxcHUU9uDLEUDGPhlM",
+  authDomain: "queuer-75c6a.firebaseapp.com",
+  projectId: "queuer-75c6a",
+  storageBucket: "queuer-75c6a.appspot.com",
+  messagingSenderId: "866124033028",
+  appId: "1:866124033028:web:7ea5d8d59439fb2373d951",
 };
 
 const app = initializeApp(firebaseConfig);
